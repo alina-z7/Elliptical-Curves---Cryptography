@@ -1,1 +1,1 @@
-# Elliptical-Curves---Cryptography
+# Elliptical-Curves-And-Cryptography
