@@ -1,3 +1,19 @@
+'''
+Extended Euclidean Algorithm - Finding Multiplicative Inverse
+
+Input:
+-----
+a, b = two integers
+
+Output:
+-------
+t_1 = gcd(a, b)
+
+Comments:
+---------
+
+'''
+
 def ex_gcd(a, b):
     assert a == abs(int(a))
     assert b == abs(int(b))
