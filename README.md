@@ -5,7 +5,7 @@ This project explores Elliptical Curves and their Applications in Modern Cryptos
 
 ## What are Elliptical Curves?
 
-(insert generalized graphs)
+![Example Elliptical Curves](images/EXAMPLE_CURVES)
 
 ## Usage in El Gamal
 
