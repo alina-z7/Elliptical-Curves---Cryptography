@@ -1,5 +1,5 @@
 import random
-from elliptic_curves import elliptic_curve_addition, get_elliptic_curve_finite_group, double_add_algo
+from src.elliptic_curves import elliptic_curve_addition, get_elliptic_curve_finite_group, double_add_algo
 
 def main():
     # Alice and Bob publicly choose:
